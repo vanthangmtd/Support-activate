@@ -1,0 +1,5 @@
+version:3.5.1
+=>https://raw.githubusercontent.com/vanthangmtd/Support-activate/master/Support%20activate/Support%20Activate%20v.3.5.1%20x64.exe
+=>https://raw.githubusercontent.com/vanthangmtd/Support-activate/master/Support%20activate/Support%20Activate%20v.3.5.1%20x64.pdb
+=>https://raw.githubusercontent.com/vanthangmtd/Support-activate/master/Support%20activate/Support%20Activate%20v.3.5.1%20x86.exe
+=>https://raw.githubusercontent.com/vanthangmtd/Support-activate/master/Support%20activate/Support%20Activate%20v.3.5.1%20x86.pdb
